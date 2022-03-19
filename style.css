@@ -837,7 +837,7 @@ html, body{
 
     #textleft button{
         position: absolute;
-        top: 245%;
+        top: 252.5%;
     }
 
     #side{
@@ -876,7 +876,7 @@ html, body{
     }
 
     #main2{
-        height: 200vh;
+        height: 180vh;
     }
 
     #catlogtext{
@@ -903,7 +903,7 @@ html, body{
     }
 
     #main3{
-        height: 90vh;
+        height: 80vh;
     }
 
     #main3 img{
