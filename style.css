@@ -816,7 +816,7 @@ html, body{
 
     #mainimage{
         position: absolute;
-        top: 1%;
+        top: 18%;
         left: 23%;
     }
 
@@ -843,7 +843,7 @@ html, body{
     #side{
         position: absolute;
         left: 0%;
-        top: 38%;
+        top: 36%;
     }
 
     #textright{
