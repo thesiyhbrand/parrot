@@ -837,7 +837,7 @@ html, body{
 
     #textleft button{
         position: absolute;
-        top: 240%;
+        top: 245%;
     }
 
     #side{
@@ -876,7 +876,7 @@ html, body{
     }
 
     #main2{
-        height: 210vh;
+        height: 200vh;
     }
 
     #catlogtext{
@@ -903,12 +903,12 @@ html, body{
     }
 
     #main3{
-        height: 94vh;
+        height: 90vh;
     }
 
     #main3 img{
         left: -102%;
-        top: -70%;
+        top: -60%;
         width: 862px;
     }
 
@@ -973,8 +973,8 @@ html, body{
     }
 
     #main4 img{
-        left: -15%;
-        top: 2%;
+        left: -20%;
+        top: 4%;
         width: 600px;
         transform: rotate(25deg);
     }
@@ -990,7 +990,7 @@ html, body{
     }
 
     #main5{
-        height: 80vh;
+        height: 70vh;
     }
 
     #main5parrot{
